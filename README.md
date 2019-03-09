@@ -15,6 +15,8 @@ C) Run the script:
 
 D) Output in the screen and folder:
    
-   -Few_factors.png
+   - Few_factors.png
    
-   -heatmap.png
+   - heatmap.png
+
+I chose these factors by looking at them. I know I should use for loop to run the whole dataset first, but I was short of time to do so. 
